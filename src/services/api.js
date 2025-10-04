@@ -1,5 +1,4 @@
 const API_KEY = "your_api_key_here"
-159a0e2 (Remove API key from codebase)
 const BASE_URL = "https://api.themoviedb.org/3"
 
 export const getPopularMovies = async () => {
